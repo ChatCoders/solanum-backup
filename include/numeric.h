@@ -145,6 +145,7 @@
 #define RPL_ENDOFWHOIS       318
 #define RPL_WHOISCHANNELS    319
 
+#define RPL_WHOISGATEWAY     320
 #define RPL_LISTSTART        321
 #define RPL_LIST             322
 #define RPL_LISTEND          323
